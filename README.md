@@ -11,8 +11,8 @@ Install dependencies <br>
 $ npx http-server
 
 Run the project <br>
-$ Available on:
- http://127.0.0.1:8080
+$ Available on: <br>
+ http://127.0.0.1:8080 <br>
  http://192.168.0.30:8080
 
 
